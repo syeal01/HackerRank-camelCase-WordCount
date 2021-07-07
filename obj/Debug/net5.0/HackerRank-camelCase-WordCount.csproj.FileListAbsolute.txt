@@ -1,0 +1,16 @@
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\bin\Debug\net5.0\HackerRank-camelCase-WordCount.exe
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\bin\Debug\net5.0\HackerRank-camelCase-WordCount.deps.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\bin\Debug\net5.0\HackerRank-camelCase-WordCount.runtimeconfig.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\bin\Debug\net5.0\HackerRank-camelCase-WordCount.runtimeconfig.dev.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\bin\Debug\net5.0\HackerRank-camelCase-WordCount.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\bin\Debug\net5.0\ref\HackerRank-camelCase-WordCount.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\bin\Debug\net5.0\HackerRank-camelCase-WordCount.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.csproj.AssemblyReference.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.AssemblyInfoInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.AssemblyInfo.cs
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.csproj.CoreCompileInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\ref\HackerRank-camelCase-WordCount.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-camelCase-WordCount\obj\Debug\net5.0\HackerRank-camelCase-WordCount.genruntimeconfig.cache
